@@ -22,6 +22,9 @@ int main() {
 		outfile << baris << endl;
 	}
 
+	// selesai dalam menulis sekarang tutup file nya
+	outfile.close();
+
 
 
 }
