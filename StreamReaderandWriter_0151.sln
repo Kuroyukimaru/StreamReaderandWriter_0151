@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34622.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Manual Exeption", "StreamReaderandWriter_0151\StreamReaderandWriter_0151.vcxproj", "{6E2ACEA5-B414-4F7A-AFE7-54C0C8DC1B67}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "IoFile", "StreamReaderandWriter_0151\StreamReaderandWriter_0151.vcxproj", "{6E2ACEA5-B414-4F7A-AFE7-54C0C8DC1B67}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "IoFileWithPath", "IoFileWithPath\IoFileWithPath.vcxproj", "{BD330BDB-AE1E-4CAF-BF3F-DE89E175CB24}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ManualExeption", "ManualExeption\ManualExeption.vcxproj", "{9542C7DE-88D4-48FA-904A-0BD4C5644655}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -31,6 +33,14 @@ Global
 		{BD330BDB-AE1E-4CAF-BF3F-DE89E175CB24}.Release|x64.Build.0 = Release|x64
 		{BD330BDB-AE1E-4CAF-BF3F-DE89E175CB24}.Release|x86.ActiveCfg = Release|Win32
 		{BD330BDB-AE1E-4CAF-BF3F-DE89E175CB24}.Release|x86.Build.0 = Release|Win32
+		{9542C7DE-88D4-48FA-904A-0BD4C5644655}.Debug|x64.ActiveCfg = Debug|x64
+		{9542C7DE-88D4-48FA-904A-0BD4C5644655}.Debug|x64.Build.0 = Debug|x64
+		{9542C7DE-88D4-48FA-904A-0BD4C5644655}.Debug|x86.ActiveCfg = Debug|Win32
+		{9542C7DE-88D4-48FA-904A-0BD4C5644655}.Debug|x86.Build.0 = Debug|Win32
+		{9542C7DE-88D4-48FA-904A-0BD4C5644655}.Release|x64.ActiveCfg = Release|x64
+		{9542C7DE-88D4-48FA-904A-0BD4C5644655}.Release|x64.Build.0 = Release|x64
+		{9542C7DE-88D4-48FA-904A-0BD4C5644655}.Release|x86.ActiveCfg = Release|Win32
+		{9542C7DE-88D4-48FA-904A-0BD4C5644655}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
